@@ -1,0 +1,246 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//Thrikketta Star Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Thrikketta Star Dates
+X-WR-TIMEZONE:Asia/Dubai
+BEGIN:VTIMEZONE
+TZID:Asia/Dubai
+X-LIC-LOCATION:Asia/Dubai
+BEGIN:STANDARD
+TZOFFSETFROM:+0400
+TZOFFSETTO:+0400
+TZNAME:+04
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:thrikketta-20260628@openai
+DTSTAMP:20260626T065109Z
+DTSTART;TZID=Asia/Dubai:20260628T060000
+DTEND;TZID=Asia/Dubai:20260628T070000
+SUMMARY:Thrikketta Nakshatra Remedies
+DESCRIPTION:Thrikketta Nakshatra remedies from astrologer:\n\nVishnu/Krishna temple:\n- Offer paal-payasam (milk kheer).\n- Light ghee lamp (neyy-vilakku).\n- Offer tulsi garland (tulasi mala).\n\nSerpent shrine (Sarpa kavu / Naga temple):\n- Do noorum-palum: turmeric + milk offering to Naga deities.\n\nBhadrakali temple:\n- Raktha pushpaanjali with red flowers.\n- Offer kadum-payasam (jaggery-based sweet).\n\nNote: Nakshatra timings can vary by location and panchangam. Verify exact start/end time with a local Malayalam calendar if timing is important.
+CATEGORIES:Thrikketta,Nakshatra,Malayalam Calendar
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Thrikketta tomorrow - prepare offerings/remedies.
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Thrikketta today - remedies noted in event.
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:thrikketta-20260725@openai
+DTSTAMP:20260626T065109Z
+DTSTART;TZID=Asia/Dubai:20260725T060000
+DTEND;TZID=Asia/Dubai:20260725T070000
+SUMMARY:Thrikketta Nakshatra Remedies
+DESCRIPTION:Thrikketta Nakshatra remedies from astrologer:\n\nVishnu/Krishna temple:\n- Offer paal-payasam (milk kheer).\n- Light ghee lamp (neyy-vilakku).\n- Offer tulsi garland (tulasi mala).\n\nSerpent shrine (Sarpa kavu / Naga temple):\n- Do noorum-palum: turmeric + milk offering to Naga deities.\n\nBhadrakali temple:\n- Raktha pushpaanjali with red flowers.\n- Offer kadum-payasam (jaggery-based sweet).\n\nNote: Nakshatra timings can vary by location and panchangam. Verify exact start/end time with a local Malayalam calendar if timing is important.
+CATEGORIES:Thrikketta,Nakshatra,Malayalam Calendar
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Thrikketta tomorrow - prepare offerings/remedies.
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Thrikketta today - remedies noted in event.
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:thrikketta-20260821@openai
+DTSTAMP:20260626T065109Z
+DTSTART;TZID=Asia/Dubai:20260821T060000
+DTEND;TZID=Asia/Dubai:20260821T070000
+SUMMARY:Thrikketta Nakshatra Remedies
+DESCRIPTION:Thrikketta Nakshatra remedies from astrologer:\n\nVishnu/Krishna temple:\n- Offer paal-payasam (milk kheer).\n- Light ghee lamp (neyy-vilakku).\n- Offer tulsi garland (tulasi mala).\n\nSerpent shrine (Sarpa kavu / Naga temple):\n- Do noorum-palum: turmeric + milk offering to Naga deities.\n\nBhadrakali temple:\n- Raktha pushpaanjali with red flowers.\n- Offer kadum-payasam (jaggery-based sweet).\n\nNote: Nakshatra timings can vary by location and panchangam. Verify exact start/end time with a local Malayalam calendar if timing is important.
+CATEGORIES:Thrikketta,Nakshatra,Malayalam Calendar
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Thrikketta tomorrow - prepare offerings/remedies.
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Thrikketta today - remedies noted in event.
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:thrikketta-20260918@openai
+DTSTAMP:20260626T065109Z
+DTSTART;TZID=Asia/Dubai:20260918T060000
+DTEND;TZID=Asia/Dubai:20260918T070000
+SUMMARY:Thrikketta Nakshatra Remedies
+DESCRIPTION:Thrikketta Nakshatra remedies from astrologer:\n\nVishnu/Krishna temple:\n- Offer paal-payasam (milk kheer).\n- Light ghee lamp (neyy-vilakku).\n- Offer tulsi garland (tulasi mala).\n\nSerpent shrine (Sarpa kavu / Naga temple):\n- Do noorum-palum: turmeric + milk offering to Naga deities.\n\nBhadrakali temple:\n- Raktha pushpaanjali with red flowers.\n- Offer kadum-payasam (jaggery-based sweet).\n\nNote: Nakshatra timings can vary by location and panchangam. Verify exact start/end time with a local Malayalam calendar if timing is important.
+CATEGORIES:Thrikketta,Nakshatra,Malayalam Calendar
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Thrikketta tomorrow - prepare offerings/remedies.
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Thrikketta today - remedies noted in event.
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:thrikketta-20261015@openai
+DTSTAMP:20260626T065109Z
+DTSTART;TZID=Asia/Dubai:20261015T060000
+DTEND;TZID=Asia/Dubai:20261015T070000
+SUMMARY:Thrikketta Nakshatra Remedies
+DESCRIPTION:Thrikketta Nakshatra remedies from astrologer:\n\nVishnu/Krishna temple:\n- Offer paal-payasam (milk kheer).\n- Light ghee lamp (neyy-vilakku).\n- Offer tulsi garland (tulasi mala).\n\nSerpent shrine (Sarpa kavu / Naga temple):\n- Do noorum-palum: turmeric + milk offering to Naga deities.\n\nBhadrakali temple:\n- Raktha pushpaanjali with red flowers.\n- Offer kadum-payasam (jaggery-based sweet).\n\nNote: Nakshatra timings can vary by location and panchangam. Verify exact start/end time with a local Malayalam calendar if timing is important.
+CATEGORIES:Thrikketta,Nakshatra,Malayalam Calendar
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Thrikketta tomorrow - prepare offerings/remedies.
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Thrikketta today - remedies noted in event.
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:thrikketta-20261111@openai
+DTSTAMP:20260626T065109Z
+DTSTART;TZID=Asia/Dubai:20261111T060000
+DTEND;TZID=Asia/Dubai:20261111T070000
+SUMMARY:Thrikketta Nakshatra Remedies
+DESCRIPTION:Thrikketta Nakshatra remedies from astrologer:\n\nVishnu/Krishna temple:\n- Offer paal-payasam (milk kheer).\n- Light ghee lamp (neyy-vilakku).\n- Offer tulsi garland (tulasi mala).\n\nSerpent shrine (Sarpa kavu / Naga temple):\n- Do noorum-palum: turmeric + milk offering to Naga deities.\n\nBhadrakali temple:\n- Raktha pushpaanjali with red flowers.\n- Offer kadum-payasam (jaggery-based sweet).\n\nNote: Nakshatra timings can vary by location and panchangam. Verify exact start/end time with a local Malayalam calendar if timing is important.
+CATEGORIES:Thrikketta,Nakshatra,Malayalam Calendar
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Thrikketta tomorrow - prepare offerings/remedies.
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Thrikketta today - remedies noted in event.
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:thrikketta-20261208@openai
+DTSTAMP:20260626T065109Z
+DTSTART;TZID=Asia/Dubai:20261208T060000
+DTEND;TZID=Asia/Dubai:20261208T070000
+SUMMARY:Thrikketta Nakshatra Remedies
+DESCRIPTION:Thrikketta Nakshatra remedies from astrologer:\n\nVishnu/Krishna temple:\n- Offer paal-payasam (milk kheer).\n- Light ghee lamp (neyy-vilakku).\n- Offer tulsi garland (tulasi mala).\n\nSerpent shrine (Sarpa kavu / Naga temple):\n- Do noorum-palum: turmeric + milk offering to Naga deities.\n\nBhadrakali temple:\n- Raktha pushpaanjali with red flowers.\n- Offer kadum-payasam (jaggery-based sweet).\n\nNote: Nakshatra timings can vary by location and panchangam. Verify exact start/end time with a local Malayalam calendar if timing is important.
+CATEGORIES:Thrikketta,Nakshatra,Malayalam Calendar
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Thrikketta tomorrow - prepare offerings/remedies.
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Thrikketta today - remedies noted in event.
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:thrikketta-20270104@openai
+DTSTAMP:20260626T065109Z
+DTSTART;TZID=Asia/Dubai:20270104T060000
+DTEND;TZID=Asia/Dubai:20270104T070000
+SUMMARY:Thrikketta Nakshatra Remedies
+DESCRIPTION:Thrikketta Nakshatra remedies from astrologer:\n\nVishnu/Krishna temple:\n- Offer paal-payasam (milk kheer).\n- Light ghee lamp (neyy-vilakku).\n- Offer tulsi garland (tulasi mala).\n\nSerpent shrine (Sarpa kavu / Naga temple):\n- Do noorum-palum: turmeric + milk offering to Naga deities.\n\nBhadrakali temple:\n- Raktha pushpaanjali with red flowers.\n- Offer kadum-payasam (jaggery-based sweet).\n\nNote: Nakshatra timings can vary by location and panchangam. Verify exact start/end time with a local Malayalam calendar if timing is important.
+CATEGORIES:Thrikketta,Nakshatra,Malayalam Calendar
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Thrikketta tomorrow - prepare offerings/remedies.
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Thrikketta today - remedies noted in event.
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:thrikketta-20270131@openai
+DTSTAMP:20260626T065109Z
+DTSTART;TZID=Asia/Dubai:20270131T060000
+DTEND;TZID=Asia/Dubai:20270131T070000
+SUMMARY:Thrikketta Nakshatra Remedies
+DESCRIPTION:Thrikketta Nakshatra remedies from astrologer:\n\nVishnu/Krishna temple:\n- Offer paal-payasam (milk kheer).\n- Light ghee lamp (neyy-vilakku).\n- Offer tulsi garland (tulasi mala).\n\nSerpent shrine (Sarpa kavu / Naga temple):\n- Do noorum-palum: turmeric + milk offering to Naga deities.\n\nBhadrakali temple:\n- Raktha pushpaanjali with red flowers.\n- Offer kadum-payasam (jaggery-based sweet).\n\nNote: Nakshatra timings can vary by location and panchangam. Verify exact start/end time with a local Malayalam calendar if timing is important.
+CATEGORIES:Thrikketta,Nakshatra,Malayalam Calendar
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Thrikketta tomorrow - prepare offerings/remedies.
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Thrikketta today - remedies noted in event.
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:thrikketta-20270227@openai
+DTSTAMP:20260626T065109Z
+DTSTART;TZID=Asia/Dubai:20270227T060000
+DTEND;TZID=Asia/Dubai:20270227T070000
+SUMMARY:Thrikketta Nakshatra Remedies
+DESCRIPTION:Thrikketta Nakshatra remedies from astrologer:\n\nVishnu/Krishna temple:\n- Offer paal-payasam (milk kheer).\n- Light ghee lamp (neyy-vilakku).\n- Offer tulsi garland (tulasi mala).\n\nSerpent shrine (Sarpa kavu / Naga temple):\n- Do noorum-palum: turmeric + milk offering to Naga deities.\n\nBhadrakali temple:\n- Raktha pushpaanjali with red flowers.\n- Offer kadum-payasam (jaggery-based sweet).\n\nNote: Nakshatra timings can vary by location and panchangam. Verify exact start/end time with a local Malayalam calendar if timing is important.
+CATEGORIES:Thrikketta,Nakshatra,Malayalam Calendar
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Thrikketta tomorrow - prepare offerings/remedies.
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Thrikketta today - remedies noted in event.
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:thrikketta-20270326@openai
+DTSTAMP:20260626T065109Z
+DTSTART;TZID=Asia/Dubai:20270326T060000
+DTEND;TZID=Asia/Dubai:20270326T070000
+SUMMARY:Thrikketta Nakshatra Remedies
+DESCRIPTION:Thrikketta Nakshatra remedies from astrologer:\n\nVishnu/Krishna temple:\n- Offer paal-payasam (milk kheer).\n- Light ghee lamp (neyy-vilakku).\n- Offer tulsi garland (tulasi mala).\n\nSerpent shrine (Sarpa kavu / Naga temple):\n- Do noorum-palum: turmeric + milk offering to Naga deities.\n\nBhadrakali temple:\n- Raktha pushpaanjali with red flowers.\n- Offer kadum-payasam (jaggery-based sweet).\n\nNote: Nakshatra timings can vary by location and panchangam. Verify exact start/end time with a local Malayalam calendar if timing is important.
+CATEGORIES:Thrikketta,Nakshatra,Malayalam Calendar
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Thrikketta tomorrow - prepare offerings/remedies.
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Thrikketta today - remedies noted in event.
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:thrikketta-20270422@openai
+DTSTAMP:20260626T065109Z
+DTSTART;TZID=Asia/Dubai:20270422T060000
+DTEND;TZID=Asia/Dubai:20270422T070000
+SUMMARY:Thrikketta Nakshatra Remedies
+DESCRIPTION:Thrikketta Nakshatra remedies from astrologer:\n\nVishnu/Krishna temple:\n- Offer paal-payasam (milk kheer).\n- Light ghee lamp (neyy-vilakku).\n- Offer tulsi garland (tulasi mala).\n\nSerpent shrine (Sarpa kavu / Naga temple):\n- Do noorum-palum: turmeric + milk offering to Naga deities.\n\nBhadrakali temple:\n- Raktha pushpaanjali with red flowers.\n- Offer kadum-payasam (jaggery-based sweet).\n\nNote: Nakshatra timings can vary by location and panchangam. Verify exact start/end time with a local Malayalam calendar if timing is important.
+CATEGORIES:Thrikketta,Nakshatra,Malayalam Calendar
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Thrikketta tomorrow - prepare offerings/remedies.
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Thrikketta today - remedies noted in event.
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+END:VCALENDAR
